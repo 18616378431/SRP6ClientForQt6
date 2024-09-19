@@ -39,3 +39,13 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 ### 5.运行平台
 
 `mac、win 使用QtCreator打开pro文件进配置即可`
+
+### 6.相关项目
+
+项目  |  名称  |  地址
+----  ----  ----
+mpool | SRP6服务端 | [mpool](https://github.com/18616378431/mpool)
+
+SRP6ClientForQt6 | SRP6客户端 | [SRP6ClientForQt6](https://github.com/18616378431/SRP6ClientForQt6)
+
+SRP6Register | SRP6注册 ｜  [SRP6Register](https://github.com/18616378431/SRP6ClientForQt6)
