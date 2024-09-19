@@ -7,7 +7,8 @@ SRP6客户端实现,基于openssl库的bignumber进行加密计算
 
 
 #### 2.项目配置
-`
+
+```c++
 用到了openssl库以实现SRP6 BigNumber计算,项目配置文件中设置openssl头文件搜索路径及动态连接库路径即可
 
 示例配置为mac m1上的路径,其他平台可修改为对应的路径
@@ -22,8 +23,8 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 
 *port = 1234;*
 
+```
 
-`
 
 ### 3.运行示例
 ![运行](./img/clientpic.png)
@@ -34,3 +35,7 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 ![运行](./img/sessionkey.png)
 
 ![运行](./img/m2.png)
+
+### 5.运行平台
+
+mac、win 使用QtCreator打开pro文件进配置即可 
