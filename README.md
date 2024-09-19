@@ -38,4 +38,4 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 
 ### 5.运行平台
 
-mac、win 使用QtCreator打开pro文件进配置即可 
+`mac、win 使用QtCreator打开pro文件进配置即可`
