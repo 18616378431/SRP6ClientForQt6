@@ -30,7 +30,7 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 ![运行](./img/clientpic.png)
 
 ### 4.验证成功
-输入在PHP项目([运行](github.com/php))中注册的用户名及密码，提示如下即为登录成功
+输入在PHP项目([运行](https://github.com/18616378431/SRP6Register))中注册的用户名及密码，提示如下即为登录成功
 
 ![运行](./img/sessionkey.png)
 
