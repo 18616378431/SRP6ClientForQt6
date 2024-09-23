@@ -19,6 +19,8 @@ LIBS += -L/opt/homebrew/opt/openssl@3.2/lib -lssl -lcrypto
 
 需要修改Qt(*SRP6ClientForQt6/mainwindow.cpp line 37*)项目中的服务端mpool服务运行的IP、端口
 
+默认服务端连接ip、端口
+
 *ip = "127.0.0.1";*
 
 *port = 1234;*
