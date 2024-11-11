@@ -51,4 +51,3 @@ mpool | SRP6服务端 | [mpool](https://github.com/18616378431/mpool) Qt6实现�
 SRP6ClientForQt6 | SRP6客户端 | [SRP6ClientForQt6](https://github.com/18616378431/SRP6ClientForQt6)
 
 SRP6Register | SRP6注册 ｜  [SRP6Register](https://github.com/18616378431/SRP6Register)
-er | SRP6注册 ｜  [SRP6Register](https://github.com/18616378431/SRP6Register)
